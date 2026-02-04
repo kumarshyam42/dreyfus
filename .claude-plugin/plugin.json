@@ -1,0 +1,12 @@
+{
+  "name": "dreyfus",
+  "description": "Teaching and learning philosophy based on the Dreyfus skill acquisition model and Flores/Winograd ontology of education",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shyam Kumar"
+  },
+  "homepage": "https://github.com/kumarshyam42/dreyfus",
+  "repository": "https://github.com/kumarshyam42/dreyfus",
+  "license": "MIT",
+  "keywords": ["skills", "teaching", "learning", "dreyfus", "education"]
+}
