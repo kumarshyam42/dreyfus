@@ -1,7 +1,8 @@
 {
   "name": "dreyfus",
-  "description": "Teaching and learning philosophy based on the Dreyfus skill acquisition model and Flores/Winograd ontology of education",
-  "version": "1.1.0",
+  "displayName": "Dreyfus Teaching",
+  "description": "Makes Claude a better teacher. Claude gauges your level, starts from a problem you already have, and explains each idea by what it lets you do. Based on the Dreyfus model of skill acquisition and Fernando Flores and Terry Winograd's work on language and learning.",
+  "version": "1.2.0",
   "author": {
     "name": "Shyam Kumar"
   },

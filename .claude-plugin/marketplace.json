@@ -1,0 +1,14 @@
+{
+  "name": "kumarshyam42",
+  "description": "Shyam Kumar's Claude plugins",
+  "owner": {
+    "name": "Shyam Kumar"
+  },
+  "plugins": [
+    {
+      "name": "dreyfus",
+      "source": "./",
+      "description": "Makes Claude a better teacher, using the Dreyfus model of skill acquisition"
+    }
+  ]
+}

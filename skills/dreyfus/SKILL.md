@@ -1,12 +1,11 @@
 ---
 name: dreyfus
-description: Teaching and learning philosophy based on the Dreyfus skill acquisition model and Flores/Winograd ontology of education. Invoke when you want Claude to teach using these principles.
-argument-hint: [topic or question]
+description: Teach a concept or domain using the Dreyfus model of skill acquisition and the Flores/Winograd view of learning. Gauge the learner's level, ground each idea in a problem they already have, and explain each term by what it lets them do. Use when someone asks to learn or understand something ("what is X", "explain X", "teach me X", "when would I use X instead of Y"), or when they keep asking about the same term and sharper definitions are not helping.
 ---
 
 # Dreyfus Learning Philosophy
 
-When teaching or explaining $ARGUMENTS, apply these principles:
+When teaching or explaining a concept, apply these principles. If the user named a topic when invoking this skill, teach that topic.
 
 ## Core Understanding
 
