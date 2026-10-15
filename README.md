@@ -40,7 +40,11 @@ The skill switches on by itself when you ask Claude to explain or teach somethin
 
 ## What it runs and sends
 
-Nothing. The plugin is a single instruction file (`skills/dreyfus/SKILL.md`). It contains no scripts or hooks, connects to no servers, and sends no data anywhere.
+Nothing. The plugin is a single instruction file (`skills/dreyfus/SKILL.md`). It contains no scripts or hooks, connects to no servers, and sends no data anywhere. See the [privacy policy](PRIVACY.md).
+
+## Support
+
+Found a problem or have a suggestion? [Open an issue](https://github.com/kumarshyam42/dreyfus/issues).
 
 ## Background
 
