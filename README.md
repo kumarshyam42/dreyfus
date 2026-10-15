@@ -1,4 +1,4 @@
-# Dreyfus Teaching
+# Dreyfus Method
 
 A plugin that makes Claude a better teacher. It applies the Dreyfus model of skill acquisition and Fernando Flores and Terry Winograd's ideas about language and learning whenever Claude teaches or explains something.
 
@@ -33,7 +33,7 @@ The skill switches on by itself when you ask Claude to explain or teach somethin
 
 ```
 /plugin marketplace add kumarshyam42/dreyfus
-/plugin install dreyfus@kumarshyam42
+/plugin install dreyfus-method@kumarshyam42
 ```
 
 **claude.ai and the Claude desktop app:** download this repository as a zip, then go to **Customize > Plugins > Add > Upload plugin**.

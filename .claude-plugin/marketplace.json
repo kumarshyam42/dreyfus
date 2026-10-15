@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "dreyfus",
+      "name": "dreyfus-method",
       "source": "./",
       "description": "Makes Claude a better teacher, using the Dreyfus model of skill acquisition"
     }
